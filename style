@@ -1,0 +1,24 @@
+ body
+ color white
+ backgroud bblack
+
+
+ header
+ border .. solid 2px white
+
+
+
+
+
+
+
+
+
+ padding top 80px
+ display flex
+ justify - ::content center ,
+
+
+ div
+ margin :right     20px
+ >
